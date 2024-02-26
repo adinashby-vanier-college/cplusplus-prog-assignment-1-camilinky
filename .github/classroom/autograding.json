@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "SumTest",
+      "setup": "",
+      "run": "make specific_test test=\"test1\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "findGradeTest",
+      "setup": "",
+      "run": "make specific_test test=\"test2\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "isVowelTest",
+      "setup": "",
+      "run": "make specific_test test=\"test3\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "isLeapYear",
+      "setup": "",
+      "run": "make specific_test test=\"test4\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "maxTest",
+      "setup": "",
+      "run": "make specific_test test=\"test5\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 20
+    }
+  ]
+}
